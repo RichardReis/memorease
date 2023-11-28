@@ -1,0 +1,11 @@
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\bin\Debug\net5.0\Ateno.Domain.deps.json
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\bin\Debug\net5.0\Ateno.Domain.dll
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\bin\Debug\net5.0\Ateno.Domain.pdb
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\obj\Debug\net5.0\Ateno.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\obj\Debug\net5.0\Ateno.Domain.AssemblyInfoInputs.cache
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\obj\Debug\net5.0\Ateno.Domain.AssemblyInfo.cs
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\obj\Debug\net5.0\Ateno.Domain.csproj.CoreCompileInputs.cache
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\obj\Debug\net5.0\Ateno.Domain.dll
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\obj\Debug\net5.0\refint\Ateno.Domain.dll
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\obj\Debug\net5.0\Ateno.Domain.pdb
+D:\TCC\Ateno\ateno\Ateno\Ateno.Domain\obj\Debug\net5.0\ref\Ateno.Domain.dll

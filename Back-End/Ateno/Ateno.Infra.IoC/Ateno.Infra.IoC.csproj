@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ateno.Application\Ateno.Application.csproj" />
+    <ProjectReference Include="..\Ateno.Domain\Ateno.Domain.csproj" />
+    <ProjectReference Include="..\Ateno.Infra.Data\Ateno.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

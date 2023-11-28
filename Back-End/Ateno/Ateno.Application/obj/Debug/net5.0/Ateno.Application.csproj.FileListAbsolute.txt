@@ -1,0 +1,15 @@
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\bin\Debug\net5.0\Ateno.Application.deps.json
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\bin\Debug\net5.0\Ateno.Application.dll
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\bin\Debug\net5.0\Ateno.Application.pdb
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\bin\Debug\net5.0\Ateno.Domain.dll
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\bin\Debug\net5.0\Ateno.Domain.pdb
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\Ateno.Application.csproj.AssemblyReference.cache
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\Ateno.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\Ateno.Application.AssemblyInfoInputs.cache
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\Ateno.Application.AssemblyInfo.cs
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\Ateno.Application.csproj.CoreCompileInputs.cache
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\Ateno.Application.csproj.CopyComplete
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\Ateno.Application.dll
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\refint\Ateno.Application.dll
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\Ateno.Application.pdb
+D:\TCC\Ateno\ateno\Ateno\Ateno.Application\obj\Debug\net5.0\ref\Ateno.Application.dll
